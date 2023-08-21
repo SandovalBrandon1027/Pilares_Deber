@@ -1,3 +1,4 @@
+package Abstraccion;
 abstract class Vehiculo {
     protected String marca;
 
