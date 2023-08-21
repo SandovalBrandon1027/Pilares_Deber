@@ -4,14 +4,14 @@
 La abstracción es el proceso de simplificar la representación de una entidad, concentrándose en los aspectos más relevantes y omitiendo los detalles innecesarios. En POO, las clases y los objetos son ejemplos de abstracciones. Una clase define una plantilla para crear objetos, encapsulando propiedades (atributos) y comportamientos (métodos) relacionados en una entidad única. La abstracción permite modelar objetos del mundo real de manera eficiente y crear jerarquías de clases que representan diferentes niveles de detalle.
 ![ABS1.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/ABS1.png)
 ![ABS2.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/ABS2.png)
-## EJECUCIÓN
+### EJECUCIÓN
 ![ABS3.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/ABS3.png)
 
 ## Encapsulación:
 La encapsulación se refiere al ocultamiento de los detalles internos de un objeto y la exposición controlada de su funcionalidad a través de una interfaz pública. Esto implica que los atributos y métodos internos de una clase están protegidos y solo se pueden acceder y modificar a través de métodos específicos. La encapsulación mejora la seguridad y el mantenimiento del código al evitar que se acceda directamente a los datos internos de un objeto.
 ![EN1.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/EN1.png)
 ![EN2.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/EN2.png)
-## EJECUCIÓN
+### EJECUCIÓN
 ![EN3.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/EN3.png)
 
 ## Herencia:
@@ -19,7 +19,7 @@ La herencia es un mecanismo mediante el cual una clase nueva (subclase o clase d
 ![HE1.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/HE1.png)
 ![HE2.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/HE2.png)
 ![HE3.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/HE3.png)
-## EJECUCIÓN
+### EJECUCIÓN
 ![HE4.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/HE4.png)
 
 ## Polimorfismo:
@@ -28,6 +28,6 @@ El polimorfismo se refiere a la capacidad de diferentes objetos de responder a l
 ![PO2.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/PO2.png)
 ![PO3.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/PO3.png)
 ![PO4.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/PO4.png)
-## EJECUCIÓN
+### EJECUCIÓN
 ![PO5.png](https://github.com/SandovalBrandon1027/Pilares_Deber/blob/master/DEBERPILAR/PO5.png)
 
